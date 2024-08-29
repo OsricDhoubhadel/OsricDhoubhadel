@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OsricDhoubhadel
 - 👀 I’m interested in data science and web development
-- 🌱 I’m currently learning Django and MERN stack
-- 💞️ I’m looking to collaborate on web projects
+- 🌱 I’m comfortable working with Python, SQL and Javascript
 - 📫 How to reach me: osric.dh@gmail.com
 
 <!---
